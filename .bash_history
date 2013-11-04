@@ -92,3 +92,61 @@ whoami
 su umang
 whoami
 exit
+git init
+git add .
+git status
+git commit -m "first commit"
+git status
+git remote add origin https://github.com/UmangGanvir/Cache-Manager.git
+git push -u origin master
+cd /opt/lampp/htdocs/Umang/Projects/Self/CacheManager/
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:UmangGanvir/Cache-Manager.git
+git push -u origin master
+git status
+ls
+ls -al
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:UmangGanvir/Cache-Manager.git
+git push -u origin master
+git remote add origin https://github.com/UmangGanvir/Cache-Manager.git
+git push -u origin master
+git remote add origin https://github.com/UmangGanvir/Cache-Manager.git
+git push -u origin master
+clear
+whoami
+ap-hotspot restart
+su umang
+whoami
+clear
+exit
+whoami
+clear
+whoami
+su umang
+whoami
+clear
+clera
+clear
+whoami
+clear
+whoami
+su umang
+sudo ls
+sudo -v
+useradd bobby
+whoami
+passwd
+whoami
+su bobby
+whoami
+clera
+clear
+su bobby
+clear
+whoami
+passwd
